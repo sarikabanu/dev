@@ -2,7 +2,7 @@
 
 This project demonstrates the use of Okta Authentication and Session APIs with [Okta .NET SDK](https://github.com/okta/oktasdk-csharp)  through the most common [transaction state models](http://developer.okta.com/docs/api/resources/authn.html#transaction-state).
 
-Specifically, you will learn when to expect an Okta state token(which you get when the user is expected to perform an additional operation, such as resetting their password or going a second-factor authentication) vs. a session token (when the user is fully authenticated and an OKta session is ready to be created) and what to do with them depending on the authentication state you're in.
+Specifically, you will learn when to expect an Okta state token (which you get when the user is expected to perform an additional operation, such as resetting their password or going a second-factor authentication) vs. a session token (when the user is fully authenticated and an Okta session is ready to be created) and what to do with them depending on the authentication state you're in.
 
 ### Configuration
 Follow the steps below to set up the sample:  
